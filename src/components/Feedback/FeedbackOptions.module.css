@@ -1,0 +1,9 @@
+.button {
+  border-radius: 6px;
+  background-color: transparent;
+  border: 1px solid #666262;
+  cursor: pointer;
+}
+.button:not(:last-child) {
+  margin-right: 10px;
+}
